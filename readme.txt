@@ -1,4 +1,4 @@
 Welcome to MyProject!
 
-Author:Lolitha Sherley
+Author:Lolitha kennedy Sherley
 Twitter: @lolitha
